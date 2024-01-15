@@ -4,7 +4,7 @@ echo "heelo"
 read -p "what is the operation? (add/check): " operation
 echo "operation: $operation"
 
-configPath=$(cat /home/pasbakhsh/file-hash-list/list.txt)
+configPath=$(cat file-hash-list/list.txt)
 echo $configPath
 
 if [ $operation = "add" ]; then
