@@ -1,1 +1,1 @@
-~/file-hash-list/list.txt
+file-hash-list/list.txt
