@@ -1,6 +1,6 @@
-# Simple file integrity checker
+# Simple file integrity checker bash script
 
-## Usage:
+## Usage
 add the relative path of the file that you want the hash list store inside it against the Home directory inside the file-hash-path.txt beside the main.sh file
 the hash of the files will be added to that file
 If that file doesn't exist the script will create it.
